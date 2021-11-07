@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TadakaSuryaTeja
+- <h1>Hi There👋 , I’m @TadakaSuryaTeja</h1>
 - Hands on experience in Machine Learning and Artificial Intelligence
 - Have Good Knowledge of Machine learning, Deep Learning and Artificial Intelligence
 - I’m looking to collaborate on Real Time Machine Learning Projects

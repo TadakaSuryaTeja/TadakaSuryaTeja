@@ -59,6 +59,11 @@ I love to solve problems and I am always open to learn new things.
 - [Creating a Bootable USB Device](https://medium.com/@suryateja233/installing-operating-system-in-any-machine-265c4fad1a61)
 <!-- BLOG-POST-LIST:END -->
 
+
+### Online Resume Template Profiles:
+<!-- RESUMES-LIST:START -->
+- [Website Using Strikingly](https://tadakasuryateja.mystrikingly.com/)
+- [Website Using HTML,JS,CSS and BOOTStrap](https://tadakasuryateja.github.io/Surya_teja_resume_template/)
 <!---
 TadakaSuryaTeja/TadakaSuryaTeja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

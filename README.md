@@ -10,7 +10,7 @@ I love to solve problems and I am always open to learn new things.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=/https://twitter.com/TadakaSuryaTeja)](https://twitter.com/TadakaSuryaTeja)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-blue?style=flat-square&logo=Gitlab&logoColor=white&link=/https://gitlab.com/suryateja233)](https://gitlab.com/suryateja233)
 [![Bitbucket Badge](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=white&link=/https://bitbucket.org/tadaka_surya_teja/)](https://bitbucket.org/tadaka_surya_teja/)
-[![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=Resume&logoColor=white&link=/https://tadakasuryateja.mystrikingly.com/)](https://tadakasuryateja.mystrikingly.com/)
+[![Resume Badge](![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&link=/https://tadakasuryateja.mystrikingly.com/)](https://tadakasuryateja.mystrikingly.com/)
 [![Gmail Badge](https://img.shields.io/badge/-suryateja233@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suryateja233@gmail.com)](mailto:suryateja233@gmail.com)
 
 - Hands-on experience in Machine Learning and Artificial Intelligence

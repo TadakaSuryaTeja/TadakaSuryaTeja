@@ -14,7 +14,6 @@ I love to solve problems and I am always open to learn new things.
 [![Gmail Badge](https://img.shields.io/badge/-suryateja233@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suryateja233@gmail.com)](mailto:suryateja233@gmail.com)
 
 - Hands-on experience in Machine Learning and Artificial Intelligence
-- I’m looking to collaborate on Real Time Machine Learning Projects
 - I am a fast learner, I can quickly adapt to new technologies and environments
 - I am a team player, I am always willing to learn and help others
 

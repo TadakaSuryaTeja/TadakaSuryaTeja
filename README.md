@@ -62,7 +62,7 @@ I love to solve problems and I am always open to learn new things.
 ### Online Resume Template Profiles:
 <!-- RESUMES-LIST:START -->
 - [Website Using Strikingly](https://tadakasuryateja.mystrikingly.com/)
-- [Website Using HTML,JS,CSS and BOOTStrap](https://tadakasuryateja.github.io/Surya_teja_resume_template/)
+- [Website Using HTML,JS,CSS and BOOTStrap](https://tadakasuryateja.github.io/Surya_teja_tadaka/)
 - [Website Using Three.js](https://tadakasuryateja.github.io/Three_js_learning/)
 - [TODO Application Using Django](https://tadakasuryateja.pythonanywhere.com/)
 - [Resume Web Page Using Figma](https://www.figma.com/proto/0u8SqV8yfTA2uUeXvEjXC4/Portfolio?node-id=72%3A1792&scaling=scale-down&page-id=0%3A1&starting-point-node-id=72%3A1792&show-proto-sidebar=1)

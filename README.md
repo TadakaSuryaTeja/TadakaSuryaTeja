@@ -13,9 +13,8 @@ I love to solve problems and I am always open to learn new things.
 [![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=Resume&logoColor=white&link=/https://tadakasuryateja.mystrikingly.com/)](https://tadakasuryateja.mystrikingly.com/)
 [![Gmail Badge](https://img.shields.io/badge/-suryateja233@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suryateja233@gmail.com)](mailto:suryateja233@gmail.com)
 
-- Hands-on experience in Machine Learning and Artificial Intelligence
-- I am a fast learner, I can quickly adapt to new technologies and environments
-- I am a team player, I am always willing to learn and help others
+- Hands-on experience in Machine Learning, Full Stack Development, Automation testing and Devops.
+- I am a fast learner, I can quickly adapt to new technologies and environments.
 
 <p align="center" style="font-size:18px">Languages and Tools:</p>
 <p align="center">

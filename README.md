@@ -41,7 +41,7 @@ I love to solve problems and I am always open to learn new things.
 </p>
 <hr class="dashed">
 
-![Surya's Github stats](https://github-readme-stats.vercel.app/api?username=TadakaSuryaTeja&show_icons=true&theme=radical)
+![Surya's Github stats](https://github-readme-stats.vercel.app/api?username=TadakaSuryaTeja)
 
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=TadakaSuryaTeja&layout=compact&theme=radical)
 

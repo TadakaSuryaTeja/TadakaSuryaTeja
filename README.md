@@ -14,7 +14,7 @@ I love to solve problems and I am always open to learn new things.
 [![Gmail Badge](https://img.shields.io/badge/-suryateja233@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suryateja233@gmail.com)](mailto:suryateja233@gmail.com)
 
 - Hands-on experience in Machine Learning, Full Stack Development, Automation testing and Devops.
-- I am a fast learner, I can quickly adapt to new technologies and environments.
+- I am a fast learner and I can quickly adapt to new technologies and environments.
 
 <p align="center" style="font-size:18px">Languages and Tools:</p>
 <p align="center">

@@ -43,7 +43,7 @@ I love to solve problems and I am always open to learn new things.
 
 ![Surya's Github stats](https://github-readme-stats.vercel.app/api?username=TadakaSuryaTeja&theme=radical&show_icons=true)
 
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=TadakaSuryaTeja&layout=compact&theme=radical)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=TadakaSuryaTeja&theme=radical&layout=compact)
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/krushnatkhawale/github-readme-stats)*
 

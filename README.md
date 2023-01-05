@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I’m Tadaka Surya Teja 👨‍💻</h1>
+<!-- <h1 align="center">Hi there, I’m Tadaka Surya Teja 👨‍💻</h1> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I%E2%80%99m+Tadaka+Surya+Teja+%F0%9F%91%A8)](https://git.io/typing-svg)
 <hr class="dashed">
 <p>
 I am a Senior Software Engineer based in Hyderabad, India. I am a self-taught programmer, and I am passionate about learning new technologies and building cool stuff.

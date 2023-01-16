@@ -3,7 +3,7 @@
 </h1>
 <hr class="dashed">
 <p>
-I am a Senior Software Engineer based in Hyderabad, India. I am a self-taught programmer, and I am passionate about learning new technologies and building cool stuff.
+I am a Sr. Engineer / Tech Lead based in Hyderabad, India. I am a self-taught programmer, and I am passionate about learning new technologies and building cool stuff.
 I love to solve problems and I am always open to learn new things.
 </p>
 

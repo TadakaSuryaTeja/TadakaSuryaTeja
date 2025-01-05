@@ -3,8 +3,7 @@
 </h1>
 <hr class="dashed">
 <p>
-I am a Sr. Engineer / Tech Lead based in Hyderabad, India. I am a self-taught programmer, and I am passionate about learning new technologies and building cool stuff.
-I love to solve problems and I am always open to learn new things.
+I'm an Associate Solution Architect / Tech Lead based in Dallas, USA, with a passion for programming and technology. A self-taught developer, I’m always eager to explore new tools, frameworks, and solve challenging problems. I enjoy building innovative solutions and constantly learning to improve my skills.
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-TadakaSuryaTeja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/surya-teja-tadaka-36ba8814a/)](https://www.linkedin.com/in/surya-teja-tadaka-36ba8814a/)
@@ -15,8 +14,8 @@ I love to solve problems and I am always open to learn new things.
 [![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat-square&logo=Resume&logoColor=white&link=/https://tadakasuryateja.mystrikingly.com/)](https://tadakasuryateja.mystrikingly.com/)
 [![Gmail Badge](https://img.shields.io/badge/-suryateja233@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suryateja233@gmail.com)](mailto:suryateja233@gmail.com)
 
-- Hands-on experience in Machine Learning, Full Stack Development, Automation testing and Devops.
-- I am a fast learner and I can quickly adapt to new technologies and environments.
+- Hands-on expertise in Machine Learning, Full Stack Development, Automation Testing, and DevOps.
+- Proven ability to swiftly learn and adapt to emerging technologies and dynamic environments.
 
 <p align="center" style="font-size:18px">Languages and Tools:</p>
 <p align="center">

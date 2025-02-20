@@ -3,7 +3,7 @@
 </h1>
 <hr class="dashed">
 <p>
-I'm an Associate Solution Architect / Tech Lead based in Dallas, USA, with a passion for programming and technology. A self-taught developer, I’m always eager to explore new tools, frameworks, and solve challenging problems. I enjoy building innovative solutions and constantly learning to improve my skills.
+I'm an Associate Solution Architect / Tech Lead based in Texas, USA, with a passion for programming and technology. A self-taught developer, I’m always eager to explore new tools, frameworks, and solve challenging problems. I enjoy building innovative solutions and constantly learning to improve my skills.
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-TadakaSuryaTeja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/https://www.linkedin.com/in/surya-teja-tadaka-36ba8814a/)](https://www.linkedin.com/in/surya-teja-tadaka-36ba8814a/)
